@@ -36,7 +36,7 @@ Os títulos abaixo reproduzem o que está visível na lista do portal. Alguns no
 
 ## Materiais e andamento
 
-- A [pasta de materiais local](C:/Users/Usuario/Downloads/modulo-08/LEIA-ME.md) registrará PDFs e mídias disponibilizados pela plataforma; conteúdo com acesso temporário não será publicado no Git.
+- Os PDFs e as mídias ficarão em uma pasta local de materiais; conteúdo com acesso temporário não será publicado no Git.
 - Os resumos serão baseados nos materiais oficiais e nas transcrições/legendas disponíveis, com limites e correções técnicas explícitos.
 - A avaliação é uma etapa separada e só será entregue após confirmação do aluno.
 
