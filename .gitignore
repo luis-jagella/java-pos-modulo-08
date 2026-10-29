@@ -1,0 +1,23 @@
+# Build outputs
+target/
+build/
+dist/
+
+# Local secrets and cloud credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials
+.aws/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local downloads and generated artifacts
+downloads/
+*.log
