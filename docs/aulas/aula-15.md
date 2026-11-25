@@ -1,15 +1,11 @@
 # Aula 15 — Pipelines declarativas com Jenkins
 
-**Status:** aguardando transcrição ou notas da aula. O título completo aparece truncado no portal.
+**Base:** material autoral da disciplina, aula 15; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+CI valida alterações; CD automatiza entrega. Jenkins coordena pelo server e executa nos agents. `Jenkinsfile` declarativo define stages de checkout, build, renomeação do JAR e deploy da Lambda; multibranch descobre branches.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Compare o `Jenkinsfile` da branch `aula15` com GitHub Actions: execução, credenciais e manutenção. Jenkins local pode disputar porta 8080 com a API.

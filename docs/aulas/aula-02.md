@@ -1,15 +1,11 @@
 # Aula 02 — Fundamentos Docker
 
-**Status:** aguardando transcrição ou notas da aula.
+**Base:** material autoral da disciplina, aula 02; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+Imagem é o pacote imutável; contêiner é sua instância. Dockerfile define build, portas conectam ao host, volumes persistem dados e redes conectam serviços. No UniPDI, Compose reúne MongoDB, API e front-end.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Experimente `docker build`, `docker run`, `docker ps` e `docker logs`. Explique por que dados dentro do contêiner somem quando ele é recriado.

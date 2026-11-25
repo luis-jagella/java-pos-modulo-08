@@ -1,15 +1,11 @@
 # Aula 03 — Criando e disponibilizando imagens
 
-**Status:** aguardando transcrição ou notas da aula. O título completo aparece truncado no portal.
+**Base:** material autoral da disciplina, aula 03; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+A aula gera o JAR com Maven, define imagem-base Java no Dockerfile, copia o artefato e configura inicialização. Tags identificam versões; um registry como Docker Hub distribui imagens.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Distinga `EXPOSE` de `docker run -p`. Prefira tag de versão ou digest a depender de `latest`; exclua credenciais do contexto de build.

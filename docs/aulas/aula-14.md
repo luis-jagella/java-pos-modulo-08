@@ -1,15 +1,11 @@
 # Aula 14 — Integração e entrega contínua
 
-**Status:** aguardando transcrição ou notas da aula. O título completo aparece truncado no portal.
+**Base:** material autoral da disciplina, aula 14; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+Workflow GitHub Actions em `.github/workflows/` reage a `push`/`pull_request`. Jobs e steps executam checkout, Java 21, build Maven, JAR e atualização de Lambda. A aula usa GitHub Secrets para AWS.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Leia a branch oficial `aula14`. Em projeto real, rode testes, restrinja gatilhos e prefira OIDC/credenciais temporárias a chaves duradouras.

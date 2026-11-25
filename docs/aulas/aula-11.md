@@ -1,15 +1,11 @@
 # Aula 11 — Integração com AWS S3
 
-**Status:** aguardando transcrição ou notas da aula.
+**Base:** material autoral da disciplina, aula 11; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+S3 armazena objetos em buckets. A API do UniPDI envia currículo para chave como `curriculo/{matricula}.pdf`; `S3Client` faz upload e `S3Presigner` cria URL temporária sem tornar bucket público.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Desenhe upload → objeto privado → URL pré-assinada → expiração. Valide tipo/tamanho/autorização do arquivo. Nunca versionar chaves AWS.

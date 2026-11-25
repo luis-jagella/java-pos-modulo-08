@@ -1,15 +1,11 @@
 # Aula 07 — Fundamentos de Kubernetes
 
-**Status:** aguardando transcrição ou notas da aula.
+**Base:** material autoral da disciplina, aula 07; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+Kubernetes orquestra cargas em cluster: control plane mantém estado desejado e nós executam pods. Deployment define réplicas e atualizações; Service fornece endereço estável para pods substituíveis.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Leia manifesto YAML e identifique `apiVersion`, `kind`, `metadata` e `spec`. Explique pod versus Deployment versus Service.

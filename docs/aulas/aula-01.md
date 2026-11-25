@@ -1,15 +1,11 @@
 # Aula 01 — Introdução a Infra e Cloud Computing
 
-**Status:** aguardando transcrição ou notas da aula.
+**Base:** material autoral da disciplina, aula 01; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+Infraestrutura reúne computação, rede, armazenamento e operação. Cloud permite provisionar recursos sob demanda, mas não elimina decisões sobre arquitetura, segurança e custo. O projeto condutor UniPDI combina API Java/Spring, React e MongoDB.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Desenhe navegador → front-end → API → banco; marque dados persistentes e segredos. Explique a diferença entre VM e contêiner.

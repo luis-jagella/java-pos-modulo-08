@@ -1,15 +1,11 @@
 # Aula 09 — Escalabilidade e saúde
 
-**Status:** aguardando transcrição ou notas da aula.
+**Base:** material autoral da disciplina, aula 09; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+Réplicas melhoram capacidade e disponibilidade. Readiness tira pod do tráfego; liveness pode reiniciá-lo; startup protege inicialização lenta. HPA ajusta réplicas com métricas e `requests`; exemplo: 2–10 réplicas e alvo de 50% CPU.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Inspecione `kubectl get hpa`. Ajustes de requests/limits extremos e TLS inseguro do metrics-server são apenas de laboratório, não recomendações de produção.
