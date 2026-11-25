@@ -15,7 +15,16 @@ Os checks abaixo indicam **notas registradas no Git**. Não representam aulas as
 
 ## Módulo 01 — Videoaulas
 
-Os títulos abaixo reproduzem o que está visível na lista do portal. Alguns nomes aparecem truncados; serão completados ao longo do estudo, sem abrir aulas por enquanto.
+Esta trilha parte da aplicação UniPDI usada no material da disciplina: primeiro empacotamos os serviços, depois os orquestramos e, por fim, estudamos integrações e entrega na AWS. Os checks indicam anotações concluídas, não presença nas aulas.
+
+| Etapa | Aulas | Resultado de estudo esperado |
+| --- | --- | --- |
+| Contêineres | 01–06 | Entender infraestrutura, criar e otimizar imagens, comparar Docker e Podman. |
+| Orquestração | 07–09 | Subir um cluster local, publicar workloads e configurar escala e saúde. |
+| AWS | 10–13 | Entender serviços e custos; integrar S3, DynamoDB e Lambda com cuidado com credenciais. |
+| CI/CD | 14–15 | Automatizar validação e entrega com GitHub Actions e Jenkins. |
+
+Alguns títulos aparecem truncados no portal; as notas serão conferidas com o material autoral e as aulas.
 
 - [ ] [Aula 01 — Introdução a Infra e Cloud Computing](docs/aulas/aula-01.md)
 - [ ] [Aula 02 — Fundamentos Docker](docs/aulas/aula-02.md)
