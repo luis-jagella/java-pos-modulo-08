@@ -1,15 +1,11 @@
 # Aula 04 — Otimização de imagens Docker
 
-**Status:** aguardando transcrição ou notas da aula.
+**Base:** material autoral da disciplina, aula 04; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+Build multiestágio separa compilação (Maven e fontes) do runtime (JAR e Java necessário). `.dockerignore` e ordem das instruções afetam cache, tamanho e segurança.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Compare tamanhos antes/depois; o material relata cerca de 391 MB para 234 MB no exemplo, não como garantia. Verifique se a imagem inicia.

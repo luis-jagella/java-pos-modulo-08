@@ -24,29 +24,29 @@ Esta trilha parte da aplicação UniPDI usada no material da disciplina: primeir
 | AWS | 10–13 | Entender serviços e custos; integrar S3, DynamoDB e Lambda com cuidado com credenciais. |
 | CI/CD | 14–15 | Automatizar validação e entrega com GitHub Actions e Jenkins. |
 
-Alguns títulos aparecem truncados no portal; as notas serão conferidas com o material autoral e as aulas.
+O material autoral confirmou os títulos completos que aparecem truncados no portal. As notas são sínteses desse material, ainda sujeitas a complementação pelos vídeos.
 
-- [ ] [Aula 01 — Introdução a Infra e Cloud Computing](docs/aulas/aula-01.md)
-- [ ] [Aula 02 — Fundamentos Docker](docs/aulas/aula-02.md)
-- [ ] [Aula 03 — Criando e disponibilizando imagens](docs/aulas/aula-03.md) *(título truncado no portal)*
-- [ ] [Aula 04 — Otimização de imagens Docker](docs/aulas/aula-04.md)
-- [ ] [Aula 05 — Conhecendo o Podman](docs/aulas/aula-05.md)
-- [ ] [Aula 06 — Podman Desktop](docs/aulas/aula-06.md)
-- [ ] [Aula 07 — Fundamentos de Kubernetes](docs/aulas/aula-07.md)
-- [ ] [Aula 08 — Criando o cluster e a arquitetura](docs/aulas/aula-08.md) *(título truncado no portal)*
-- [ ] [Aula 09 — Escalabilidade e saúde](docs/aulas/aula-09.md)
-- [ ] [Aula 10 — Fundamentos AWS](docs/aulas/aula-10.md)
-- [ ] [Aula 11 — Integração com AWS S3](docs/aulas/aula-11.md)
-- [ ] [Aula 12 — Armazenando dados com DynamoDB](docs/aulas/aula-12.md) *(título truncado no portal)*
-- [ ] [Aula 13 — AWS Lambda](docs/aulas/aula-13.md)
-- [ ] [Aula 14 — Integração e entrega contínua](docs/aulas/aula-14.md) *(título truncado no portal)*
-- [ ] [Aula 15 — Pipelines declarativas com Jenkins](docs/aulas/aula-15.md) *(título truncado no portal)*
+- [x] [Aula 01 — Introdução a Infra e Cloud Computing](docs/aulas/aula-01.md)
+- [x] [Aula 02 — Fundamentos Docker](docs/aulas/aula-02.md)
+- [x] [Aula 03 — Criando e Disponibilizando Imagens](docs/aulas/aula-03.md)
+- [x] [Aula 04 — Otimização de imagens Docker](docs/aulas/aula-04.md)
+- [x] [Aula 05 — Conhecendo o Podman](docs/aulas/aula-05.md)
+- [x] [Aula 06 — Podman Desktop](docs/aulas/aula-06.md)
+- [x] [Aula 07 — Fundamentos de Kubernetes](docs/aulas/aula-07.md)
+- [x] [Aula 08 — Criando o Cluster e a Arquitetura](docs/aulas/aula-08.md)
+- [x] [Aula 09 — Escalabilidade e saúde](docs/aulas/aula-09.md)
+- [x] [Aula 10 — Fundamentos AWS](docs/aulas/aula-10.md)
+- [x] [Aula 11 — Integração com AWS S3](docs/aulas/aula-11.md)
+- [x] [Aula 12 — Armazenando Dados com DynamoDB](docs/aulas/aula-12.md)
+- [x] [Aula 13 — AWS Lambda](docs/aulas/aula-13.md)
+- [x] [Aula 14 — Integração e Entrega Contínua com GitHub Actions](docs/aulas/aula-14.md)
+- [x] [Aula 15 — Pipelines Declarativas com Jenkins](docs/aulas/aula-15.md)
 - [ ] [Podcast 01](docs/podcast-01.md)
 
 ## Materiais e andamento
 
 - Os PDFs e as mídias ficarão em uma pasta local de materiais; conteúdo com acesso temporário não será publicado no Git.
-- Os resumos serão baseados nos materiais oficiais e nas transcrições/legendas disponíveis, com limites e correções técnicas explícitos.
+- As 15 notas foram preenchidas com base no material autoral oficial. Elas não substituem a visualização dos vídeos; pontos de versão, preço e quota devem ser conferidos nas fontes atuais.
 - A avaliação é uma etapa separada e só será entregue após confirmação do aluno.
 
 ## Como estudar

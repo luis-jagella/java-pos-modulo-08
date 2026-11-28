@@ -1,15 +1,11 @@
 # Aula 06 — Podman Desktop
 
-**Status:** aguardando transcrição ou notas da aula.
+**Base:** material autoral da disciplina, aula 06; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+Podman Desktop mostra machines, imagens, contêineres e pods. No Windows, Podman Machine fornece ambiente Linux. Pods agrupam contêineres que compartilham rede.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Localize machine, pod, volumes e logs do UniPDI. Diferencie `localhost` dentro do pod e no host.

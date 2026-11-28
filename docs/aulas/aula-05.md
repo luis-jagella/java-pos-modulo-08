@@ -1,15 +1,11 @@
 # Aula 05 — Conhecendo o Podman
 
-**Status:** aguardando transcrição ou notas da aula.
+**Base:** material autoral da disciplina, aula 05; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+Podman trabalha com imagens OCI, é daemonless e favorece execução rootless. Comandos se parecem com Docker, mas rede, volumes e permissões ainda pedem atenção.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Repita `podman build`, `podman run`, `podman ps` e `podman logs`; compare o resultado com Docker.

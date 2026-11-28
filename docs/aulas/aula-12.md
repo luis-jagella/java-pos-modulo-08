@@ -1,15 +1,11 @@
 # Aula 12 — Armazenando dados com DynamoDB
 
-**Status:** aguardando transcrição ou notas da aula. O título completo aparece truncado no portal.
+**Base:** material autoral da disciplina, aula 12; nota de estudo, não registro de vídeo assistido.
 
 ## Resumo
 
-_A preencher com base no conteúdo da aula._
+DynamoDB é NoSQL gerenciado e exige modelagem pelos padrões de acesso. Exemplo: `Pessoa` com matrícula como chave de partição e PDI/metas aninhados; Enhanced Client usa `@DynamoDbBean` e `@DynamoDbPartitionKey`. `Query` usa chave/índice, `Scan` percorre tabela.
 
-## Conceitos e comandos
+## Para praticar e revisar
 
-_A preencher._
-
-## Revisão
-
-_A preencher._
+Liste consultas antes de escolher chaves. Compare capacidade on-demand/provisionada e estime custo; evite scan em fluxo crítico.

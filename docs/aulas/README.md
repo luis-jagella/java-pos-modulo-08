@@ -1,6 +1,6 @@
 # Aulas — Infraestrutura e Cloud Computing
 
-Progresso das anotações. Os títulos foram conferidos na lista visível do portal; os que aparecem com reticências permanecem provisórios até uma fonte confiável confirmar o nome completo.
+Progresso das anotações. Os títulos completos foram conferidos no mapa do material autoral da disciplina.
 
 | Aula | Tema identificado | Nota |
 | --- | --- | --- |
@@ -20,4 +20,4 @@ Progresso das anotações. Os títulos foram conferidos na lista visível do por
 | 14 | Integração e entrega contínua | [Resumo](aula-14.md) |
 | 15 | Pipelines declarativas com Jenkins | [Resumo](aula-15.md) |
 
-As notas ainda não foram produzidas. Cada link será completado conforme houver conteúdo de aula suficiente.
+As 15 notas estão preenchidas a partir do material autoral oficial. Não significam que os vídeos foram assistidos nem que os laboratórios foram executados. O podcast continua pendente de conteúdo verificável.
