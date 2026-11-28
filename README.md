@@ -55,3 +55,5 @@ Alguns títulos aparecem truncados no portal; as notas serão conferidas com o m
 2. Acompanhe os exercícios na branch prática, mantendo segredos e credenciais fora do Git.
 3. Para AWS, use contas e recursos de baixo custo, configure alertas de orçamento e remova recursos ao terminar.
 4. Diferencie as notas do repositório do progresso no ambiente virtual.
+
+Comece pela [revisão geral dos conceitos](docs/revisao-geral.md) para identificar os tópicos que merecem estudo mais profundo antes dos laboratórios.
